@@ -23,3 +23,12 @@
 
 **Link(s) to work**:
 [roleBot](https://github.com/stryker-e/roleBot)
+
+### Day 2: July 12, Tuesday
+
+**Today's Progress**: Worked on pseudo for reaction role assignment
+
+**Notes**: Kinda stuck on figuring out how to do what I want it to do
+
+**Link(s) to work**:
+[roleBot](https://github.com/stryker-e/roleBot)
