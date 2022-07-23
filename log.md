@@ -15,13 +15,14 @@
 
 [//]: # (1. [Find the Longest Word in a String]&#40;https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string&#41;)
 
-### Day 1: July 10, Sunday
+~~### Day 1: July 10, Sunday
 
 **Today's Progress**: Progress on reaction bot, set up hosting
 
 **Notes**: Spent most of the time configuring the hosting
 
 **Link(s) to work**:
+
 [roleBot](https://github.com/stryker-e/roleBot)
 
 ### Day 2: July 12, Tuesday
@@ -31,4 +32,13 @@
 **Notes**: Kinda stuck on figuring out how to do what I want it to do
 
 **Link(s) to work**:
-[roleBot](https://github.com/stryker-e/roleBot)
+
+[roleBot](https://github.com/stryker-e/roleBot)~~
+
+### Day 1: July 22, Friday
+
+**Today's Progress**: Started the Rust book, read and followed examples through chapter 2.
+
+**Notes**: Restarting the challenge because I didn't get very far before losing momentum.
+
+**Work**: /hello_world, /hello_cargo, /guessing_game
