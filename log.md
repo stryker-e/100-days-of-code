@@ -42,3 +42,11 @@
 **Notes**: Restarting the challenge because I didn't get very far before losing momentum.
 
 **Work**: /hello_world, /hello_cargo, /guessing_game
+
+### Day 2: July 24, Sunday
+
+**Today's Progress**: Read more in the Rust book, took notes on data types and structures
+
+**Notes**: Spent maybe 3 hours on it today?
+
+**Work**: /variables
