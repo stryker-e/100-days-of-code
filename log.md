@@ -50,3 +50,11 @@
 **Notes**: Spent maybe 3 hours on it today?
 
 **Work**: /variables
+
+### Day 3: July 27, Wednesday
+
+**Today's Progress**: More work on Rust
+
+**Notes**: Didn't spend exactly a full hour (at least) on it but it was still dedicated time so I'm counting it. :P
+
+**Work**: /functions
