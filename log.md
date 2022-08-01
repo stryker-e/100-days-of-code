@@ -58,3 +58,11 @@
 **Notes**: Didn't spend exactly a full hour (at least) on it but it was still dedicated time so I'm counting it. :P
 
 **Work**: /functions
+
+### Day 4: July 31, Sunday
+
+**Today's Progress**: More Rusting
+
+**Notes**: I haven't been doing 100 days consecutively as I'd like to but I'm not restarting the challenge again, I'm just gonna keep going.
+
+**Work**: /functions, /branches
