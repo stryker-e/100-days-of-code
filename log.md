@@ -66,3 +66,11 @@
 **Notes**: I haven't been doing 100 days consecutively as I'd like to but I'm not restarting the challenge again, I'm just gonna keep going.
 
 **Work**: /functions, /branches
+
+### Day 5: August 1, Monday
+
+**Today's Progress**: Rust through ch 4
+
+**Notes**: TODO finish chapter samples
+
+**Work**: /branches
