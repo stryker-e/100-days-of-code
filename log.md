@@ -74,3 +74,27 @@
 **Notes**: TODO finish chapter samples
 
 **Work**: /branches
+
+### Day 6: August 5, Friday
+
+**Today's Progress**: Rust ch 4 example 1
+
+**Notes**: First non-tutorial Rust program :)
+
+**Work**: /examples/temp_convert
+
+### Day 7: August 7, Sunday
+
+**Today's Progress**: Rust ch 4 example 2
+
+**Notes**: referenced pseudocode for alg
+
+**Work**: /examples/nth_fib
+
+### Day 8: August 8, Monday
+
+**Today's Progress**: Rust ch 4 example 3
+
+**Notes**: Work smarter, not harder
+
+**Work**: /examples/twelve_itr
