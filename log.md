@@ -69,7 +69,7 @@
 
 ### Day 5: August 1, Monday
 
-**Today's Progress**: Rust through ch 4
+**Today's Progress**: Rust through ch 3
 
 **Notes**: TODO finish chapter samples
 
@@ -77,7 +77,7 @@
 
 ### Day 6: August 5, Friday
 
-**Today's Progress**: Rust ch 4 example 1
+**Today's Progress**: Rust ch 3.5 ex 1
 
 **Notes**: First non-tutorial Rust program :)
 
@@ -85,7 +85,7 @@
 
 ### Day 7: August 7, Sunday
 
-**Today's Progress**: Rust ch 4 example 2
+**Today's Progress**: Rust ch 3.5 ex 2
 
 **Notes**: referenced pseudocode for alg
 
@@ -93,8 +93,16 @@
 
 ### Day 8: August 8, Monday
 
-**Today's Progress**: Rust ch 4 example 3
+**Today's Progress**: Rust ch 3.5 ex 3
 
 **Notes**: Work smarter, not harder
 
 **Work**: /examples/twelve_itr
+
+### Day 9: August 9, Tuesday
+
+**Today's Progress**: Rust ch 4.1: Ownership
+
+**Notes**: I think ownership makes sense? It's a really cool concept that's unique to Rust (at least in contrast to C/++ et al). Also I set up shop in the public library and used a Pomodoro timer and that helped me focus for once!
+
+**Work**: /ownership
