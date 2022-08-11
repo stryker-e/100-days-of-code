@@ -106,3 +106,12 @@
 **Notes**: I think ownership makes sense? It's a really cool concept that's unique to Rust (at least in contrast to C/++ et al). Also I set up shop in the public library and used a Pomodoro timer and that helped me focus for once!
 
 **Work**: /ownership
+
+### Day 10: August 10, Wednesday
+
+**Today's Progress**: finished Rust ch 4, through 5.1
+
+**Notes**: back at the library, good results
+
+**Work**: /ownership, /structs, /rectangles
+
