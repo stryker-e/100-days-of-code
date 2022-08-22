@@ -115,3 +115,54 @@
 
 **Work**: /ownership, /structs, /rectangles
 
+### Day 11: August 11, Thursday
+
+**Today's Progress**: More Rust
+
+**Notes**:
+
+**Work**: /structs
+
+### Day 12: August 15, Monday
+
+**Today's Progress**: More Rust
+
+**Notes**: The library has summer hours that conflict with my work schedule. I need to find another place to work during the weekend.
+
+**Work**: /enums
+
+### Day 13: August 16, Tuesday
+
+**Today's Progress**: More Rust :)
+
+**Notes**:
+
+**Work**: /control-flow, /restaurant
+
+### Day 14: August 17, Wednesday
+
+**Today's Progress**: Rust? Started a Python refresher course on Google
+
+**Notes**: Got a few ideas for side projects. Rust doesn't really have an endgoal for me, so I'm putting it aside for now.
+
+**Work**: 
+
+### Day 15: August 18, Thursday
+
+**Today's Progres**: Python refresher course
+
+**Notes**:
+
+**Work**:
+
+### Day 15.5: August 20, Saturday
+
+**Today's Progress**: Got in about an hour at the library, didn't get very far
+
+<!-- ### Day 16: August 22, Monday
+
+**Today's Progress**:
+
+**Notes**:
+
+**Work**: -->
