@@ -149,7 +149,7 @@
 
 ### Day 15: August 18, Thursday
 
-**Today's Progres**: Python refresher course
+**Today's Progress**: Python refresher course
 
 **Notes**:
 
@@ -159,10 +159,90 @@
 
 **Today's Progress**: Got in about an hour at the library, didn't get very far
 
-<!-- ### Day 16: August 22, Monday
+### Day 16: August 22, Monday
 
 **Today's Progress**:
 
 **Notes**:
 
-**Work**: -->
+**Work**:
+
+### Day 17: August 23, Tuesday
+
+**Today's Progress**: Python refresher course
+
+**Notes**:
+
+**Work**:
+
+### Day 18: August 24, Wednesday
+
+**Today's Progress**: Python refresher course
+
+**Notes**:
+
+**Work**:
+
+### Day 19: August 25, Thursday
+
+**Today's Progress**: Python refresher course
+
+**Notes**:
+
+**Work**:
+
+### Day 20: August 29, Monday
+
+**Today's Progress**: Python refresher course
+
+**Notes**:
+
+**Work**:
+
+### Day 21: August 30, Tuesday
+
+**Today's Progress**: Python refresher course
+
+**Notes**:
+
+**Work**:
+
+### Day 22: August 31, Wednesday
+
+**Today's Progress**: Python refresher course
+
+**Notes**:
+
+**Work**:
+
+### Day 23: September 4, Sunday
+
+**Today's Progress**: Python refresher course
+
+**Notes**: Library is closed through Monday for Labor Day. It's really hard to focus at home. Got maybe just shy of an hour's worth done today.
+
+**Work**:
+
+### Day 24: September 6, Tuesday
+
+**Today's Progress**: Python refresher course
+
+**Notes**: This doesn't feel worth it anymore
+
+**Work**:
+
+### Day 25: September 7, Wednesday
+
+**Today's Progress**: Python refresher course
+
+**Notes**: Back at the library and getting stuff done
+
+**Work**:
+
+### Day 26: September 8, Thursday
+
+**Today's Progress**:
+
+**Notes**:
+
+**Work**:
