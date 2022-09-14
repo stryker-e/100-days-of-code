@@ -241,7 +241,31 @@
 
 ### Day 26: September 8, Thursday
 
-**Today's Progress**:
+**Today's Progress**: Python refresher course
+
+**Notes**:
+
+**Work**: babynames.py
+
+### Day 27: September 12, Monday
+
+**Today's Progress**: Day 27 in the chamber. They ain't found me yet but when they do, they gon' be surprised.
+
+**Notes**:
+
+**Work**: copyspecial.py
+
+### Day 28: September 13, Tuesday
+
+**Today's Progress**: Python refresher course
+
+**Notes**:
+
+**Work**: copyspecial.py
+
+### Day 29: September 14, Wednesday
+
+**Today's Progress**: Python refresher course
 
 **Notes**:
 
