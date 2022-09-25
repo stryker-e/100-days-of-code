@@ -269,4 +269,60 @@
 
 **Notes**:
 
-**Work**:
+**Work**: logpuzzle.py 
+
+### Day 30: September 15, Thursday
+
+**Today's Progress** Python refresher course
+
+**Notes**:
+
+**Work**: logpuzzle.py
+
+### Day 31: September 19, Monday
+
+**Today's Progress**: Python refresher course
+
+**Notes**:
+
+**Work**: logpuzzle.py
+
+### Day 32: September 20, Tuesday
+
+**Today's Progress**: Python refresher course
+
+**Notes**:
+
+**Work**: logpuzzle.py
+
+### Day 33: September 21, Wednesday
+
+**Today's Progress**: Python refresher course
+
+**Notes**:
+
+**Work**: logpuzzle.py
+
+### Day 34: September 22, Thursday
+
+**Today's Progress**: Python refresher course
+
+**Notes**:
+
+**Work**: logpuzzle.py
+
+### Day 35: September 23, Friday
+
+**Today's Progress**: Python refresher course
+
+**Notes**:
+
+**Work**: logpuzzle.py
+
+### Day 36: September 25, Sunday
+
+**Today's Progress**: Python refresher course
+
+**Notes**:
+
+**Work**: logpuzzle.py
